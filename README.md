@@ -1,2 +1,9 @@
 # [Sample Repo] PR Practice
 A sample repo for practicing how to create Pull Requests
+
+# Introduction:
+     no.1 dummy staff
+     no.2 dummy staff
+     
+     
+     
